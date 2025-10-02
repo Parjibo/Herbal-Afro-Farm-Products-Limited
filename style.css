@@ -38,7 +38,7 @@ body {
 }
 
 .logo {
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: bold;
   letter-spacing: 1px;
   white-space: nowrap;
@@ -291,3 +291,4 @@ footer a:hover {
     grid-template-columns: 1fr;
   }
 }
+
